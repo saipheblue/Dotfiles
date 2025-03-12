@@ -1,4 +1,4 @@
-![Rice](https://github.com/saipheblue/Dotfiles/blob/main/preview.png)
+![Rice](https://github.com/saipheblue/Dotfiles/blob/main/Preview.png)
 ![Rice](https://github.com/saipheblue/Dotfiles/blob/main/rices/White/walls/127535181_p0.jpg)
 
 
