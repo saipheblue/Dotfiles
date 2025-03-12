@@ -11,10 +11,10 @@ Might need changes in city ( weather ) or other adjustment ( keyboard layout for
 
 Highlights:
 
-Notification in polybar taking oyu directly to the arch news and turning the notification invisible.
-If manual intervention is needed, notification will be with exclamaiton marks.
+Arch news notification - Notification directly in polybar taking you directly to the arch news and turning the notification invisible.
+                         If manual intervention is needed, notification will be with exclamation marks.
 
-Redshift, keyboard switch , calendar, clickable weather ( need wttr installed ) , flatpak updates ... 
+Redshift, keyboard switch , calendar, clickable weather ( need wttr installed ) , flatpak updates , audio limit to 100%, small tweaks...
 
 Theme changes
 
