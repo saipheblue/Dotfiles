@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+# Full path to setxkbmap
+SETXKBMAP="/usr/bin/setxkbmap"
+
+# Get the current keyboard layout
+CURRENT_LAYOUT=$($SETXKBMAP -query | grep layout | awk '{print $2}')
+
+if [ "$1" == "toggle" ]; then
+  # Toggle the keyboard layout between CZ and ENG
+  if [ "$CURRENT_LAYOUT" == "cz" ]; then
+    $SETXKBMAP us
+  else
+    $SETXKBMAP cz
+  fi
+else
+  # Output the current layout for Polybar
+  if [ "$CURRENT_LAYOUT" == "cz" ]; then
+    echo "CZ"
+  else
+    echo "ENG"
+  fi
+fi
