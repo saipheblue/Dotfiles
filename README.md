@@ -13,14 +13,21 @@ Change kaybaord layouts you use in keyboard switch script
 Highlights:
 
 Theme changes
+
 Arch news notification - Notification directly in polybar taking you directly to the arch news and turning the notification invisible.
                          If manual intervention is needed, notification will be with exclamation marks.
 Redshift
+
 keyboard switch
+
 calendar
+
 clickable weather ( need wttr installed )
+
 flatpak updates
+
 audio limit to 100%
+
 small tweaks...
 
 
