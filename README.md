@@ -6,7 +6,7 @@ Install: https://github.com/gh0stzk/dotfiles
 Then copy paste my files and replace
 
 Change your location / city in  weather script  
-Change kaybaord layouts you use in keyboard switch script
+Change keyboard layouts you use in keyboard switch script
 
 
 
@@ -18,15 +18,15 @@ Arch news notification - Notification directly in polybar taking you directly to
                          If manual intervention is needed, notification will be with exclamation marks.
 Redshift
 
-keyboard switch
+Keyboard switch
 
-calendar
+Calendar
 
-clickable weather ( need wttr installed )
+Clickable weather ( need wttr installed )
 
-flatpak updates
+Flatpak updates
 
-audio limit to 100%
+Audio limit to 100%
 
 small tweaks...
 
