@@ -1,3 +1,7 @@
+
+![Rice](https://github.com/saipheblue/Dotfiles/blob/main/rices/White/walls/127535181_p0.jpg)
+
+
 Install: https://github.com/gh0stzk/dotfiles
 
 Then copy paste my files and replace
