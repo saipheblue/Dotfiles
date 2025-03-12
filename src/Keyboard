@@ -8,10 +8,10 @@ CURRENT_LAYOUT=$($SETXKBMAP -query | grep layout | awk '{print $2}')
 
 if [ "$1" == "toggle" ]; then
   # Toggle the keyboard layout between CZ and ENG
-  if [ "$CURRENT_LAYOUT" == "cz" ]; then
+  if [ "$CURRENT_LAYOUT" == "de" ]; then
     $SETXKBMAP us
   else
-    $SETXKBMAP cz
+    $SETXKBMAP de
   fi
 else
   # Output the current layout for Polybar
