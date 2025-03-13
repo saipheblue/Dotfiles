@@ -6,7 +6,7 @@
 #  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 #	z0mbi3			https://github.com/gh0stzk/dotfiles
 #
-# Toggle between US and Czech keyboard layout with Alt + Shift
+# Toggle between US and DE keyboard layout with Alt + Shift
 alt + shift + c
     env DISPLAY=:0 ~/.config/bspwm/src/Keyboard toggle
 
