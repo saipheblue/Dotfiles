@@ -7,7 +7,7 @@ SETXKBMAP="/usr/bin/setxkbmap"
 CURRENT_LAYOUT=$($SETXKBMAP -query | grep layout | awk '{print $2}')
 
 if [ "$1" == "toggle" ]; then
-  # Toggle the keyboard layout between CZ and ENG
+  # Toggle the keyboard layout between DE and ENG
   if [ "$CURRENT_LAYOUT" == "de" ]; then
     $SETXKBMAP us
   else
