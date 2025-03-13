@@ -16,6 +16,7 @@ Theme changes
 
 Arch news notification - Notification directly in polybar taking you directly to the arch news and turning the notification invisible.
                          If manual intervention is needed, notification will be with exclamation marks.
+                         
 Redshift
 
 Keyboard switch
