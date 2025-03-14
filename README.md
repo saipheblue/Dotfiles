@@ -5,7 +5,7 @@
 Install: https://github.com/gh0stzk/dotfiles
 Then copy paste my files and replace
 
-Change your location / city in  weather script  
+Change your location / city + api key tah tyou generate on openweatehrmaps in  weather script  
 Change keyboard layouts you use in keyboard switch script
 
 
