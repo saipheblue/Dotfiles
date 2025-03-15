@@ -14,7 +14,8 @@
 
 - **Weather Script**: Change your location/city and generate an API key from [OpenWeatherMap](https://openweathermap.org/) for the weather script. The weather display shows the actual weather and is clickable to open another app.
 - **Keyboard Layouts**: Update the keyboard layouts you use in the keyboard switch script.
-
+- Probably other small tweaks I already forgot
+  
 ## Highlights
 
 - **Theme Changes**: Custom visual enhancements for a unique look.
