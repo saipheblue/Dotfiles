@@ -5,7 +5,7 @@
 
 ## Installation
 
-1. Install the dotfiles from [gh0stzk's repository](https://github.com/gh0stzk/dotfiles).
+1. Install the dotfiles from [gh0stzk's repository](https://github.com/gh0stzk/dotfiles) OR just install dependencies
 2. Copy and paste my files, replacing the existing ones.
 
    **Note:** This setup requires manual edits. It’s not a simple plug-and-play solution.
